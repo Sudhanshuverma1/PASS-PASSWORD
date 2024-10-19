@@ -1,4 +1,4 @@
-# Password Manager
+# PASS-PASSWORD
 
 This is a simple password manager application written in Python. It generates a random password for any application or purpose and saves it with the corresponding name in a text file.
 
@@ -16,14 +16,14 @@ This is a simple password manager application written in Python. It generates a 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/password-manager.git
-   cd password-manager
+   git clone https://github.com/Sudhanshuverma1/PASS-PASSWORD.git
+   cd PASS-PASSWORD
    ```
 
 2. Run the script:
 
    ```bash
-   python password_manager.py
+   python pass.py
    ```
 
 3. Follow the prompts to enter the name where the password will be used and the desired password length.
